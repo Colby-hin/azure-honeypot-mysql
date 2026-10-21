@@ -234,11 +234,11 @@ The screenshot shows connection 36 issuing SELECT statements against credentials
 
 *SQL records from connections 35 and 36, which were linked to `45.8.17.123`.*
 
-The timestamps place this activity around 01:48 UTC on October 11, 2026. The records document the SQL commands, but they do not establish how much data was returned or transferred.
+The timestamps place this activity around 01:48 UTC on October 11, 2026.
 
 ### Scope of the Review
 
-Process and file searches around this MySQL activity returned no results. That finding applies only to that period. The later successful Windows logons are a separate finding.
+Process and file searches around this MySQL activity returned no results.
 
 ## Phase 8: Containment
 
