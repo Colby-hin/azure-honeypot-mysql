@@ -18,7 +18,7 @@ Defender collected endpoint telemetry. Azure Monitor Agent sent the MySQL genera
 
 ## Phase 1: Build the Windows VM
 
-I deployed `CORP-NA01-W11` with a public IP address. I kept inbound internet access blocked during setup and used Azure Bastion for administration.
+I deployed `CORP-NA01-W11` with a public IP address. I kept inbound internet access blocked during setup.
 
 After onboarding the VM to Microsoft Defender for Endpoint, I checked `DeviceInfo` to confirm that the device was reporting.
 
